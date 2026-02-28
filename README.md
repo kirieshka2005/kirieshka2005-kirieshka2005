@@ -1,24 +1,4 @@
-<svg width="100%" height="300" viewBox="0 0 1440 320" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4facfe;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#00f2fe;stop-opacity:1" />
-      <animate attributeName="x1" values="0%;100%;0%" dur="10s" repeatCount="indefinite" />
-      <animate attributeName="x2" values="100%;0%;100%" dur="10s" repeatCount="indefinite" />
-    </linearGradient>
-  </defs>
-  <rect width="100%" height="100%" fill="url(#gradient)" />
-  <!-- Добавим немного плавающих кругов для эффекта фрактала/пузырей -->
-  <circle cx="200" cy="100" r="50" fill="white" opacity="0.2">
-     <animate attributeName="cy" values="100;200;100" dur="5s" repeatCount="indefinite" />
-  </circle>
-  <circle cx="800" cy="250" r="80" fill="white" opacity="0.1">
-     <animate attributeName="cx" values="800;900;800" dur="7s" repeatCount="indefinite" />
-  </circle>
-  <circle cx="1200" cy="50" r="30" fill="white" opacity="0.3">
-     <animate attributeName="r" values="30;50;30" dur="4s" repeatCount="indefinite" />
-  </circle>
-</svg>
+<img src="https://media.giphy.com/media/26BcO2UVzH8vN6OQU/giphy.gif" width="100%" />
 
 # Hi, I'm Kirill 👋
 
