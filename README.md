@@ -1,4 +1,8 @@
-![Mandelbrot](https://images.unsplash.com/photo-1635322966219-b75ed372eb01?w=1000&h=300&fit=crop)
+<div align="center">
+
+![Deep Zoom](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
+
+</div>
 # Hi, I'm Kirill 👋
 
 > Data-focused developer building practical ML solutions  
