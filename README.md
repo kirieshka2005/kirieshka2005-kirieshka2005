@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000,1a1a2e,16213e&height=300&section=header&text=Data%20Science&fontSize=70&fontColor=ffffff&animation=twinkle&round=10" width="100%" alt="Mostly harmless... unless you give me dirty data Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000,1a1a2e,16213e&height=300&section=header&text=Mostly%20harmless...%20unless%20you%20give%20me%20dirty%20data&fontSize=70&fontColor=ffffff&animation=twinkle&round=10" width="100%" alt="Data Science Header" />
 
 # Hi, I'm Kirill 👋
 
