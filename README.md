@@ -47,7 +47,6 @@ That's it — just learning, experimenting, and building my skills step by step.
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Yandex DataLens](https://img.shields.io/badge/Yandex.DataLens-FFCC00?style=for-the-badge&logo=yandex&logoColor=black)
 
 ---
 
@@ -64,7 +63,6 @@ That's it — just learning, experimenting, and building my skills step by step.
 - **KPI dashboards** with actionable insights (Yandex DataLens)
 - **Reusable Python modules** for data preprocessing and model evaluation
 
-*Projects are added incrementally — quality over quantity.*
 
 ---
 
