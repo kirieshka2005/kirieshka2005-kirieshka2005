@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,161b22,21262d&height=300&section=header&text=Data%20Science%20%26%20ML&fontSize=70&fontColor=c9d1d9&animation=twinkle&round=10" width="100%" alt="Data Science Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000,0a0a0a,141414&height=300&section=header&text=Data%20Science%20%26%20ML&fontSize=70&fontColor=ffffff&animation=twinkle&round=10" width="100%" alt="Data Science Header" />
 # Hi, I'm Kirill 👋
 
 > Data-focused developer building practical ML solutions  
